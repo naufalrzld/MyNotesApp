@@ -1,4 +1,4 @@
-package com.naufalrzld.mynotesapp.db;
+package com.naufalrzld.dicodingnotesapp.db;
 
 import android.database.Cursor;
 import android.net.Uri;
